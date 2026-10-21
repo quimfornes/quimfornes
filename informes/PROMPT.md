@@ -4,6 +4,8 @@ Dues tasques programades (hora de Madrid):
 - **Informe econòmic diari**: de dimarts a divendres, 07:38
 - **Resum econòmic setmanal**: diumenge, 08:36
 
+**Lliurament:** les tasques no tenen el connector de Gmail (l'organització no permet desar-lo). L'informe és el missatge final de la sessió i arriba per correu amb la notificació per correu de la tasca, el mateix sistema que el Radar de Valors. Si algun dia hi ha Gmail disponible, la sessió envia a més una versió HTML. A les tasques programades, el bloc «Enviament» d'aquests prompts s'ha substituït per aquest «Lliurament».
+
 Les sessions programades no tenen accés a aquest repositori, de manera que la jerarquia de fonts (`FONTS.md`) va copiada dins de cada prompt. Si es modifica aquí, cal actualitzar també les tasques programades.
 
 ---
